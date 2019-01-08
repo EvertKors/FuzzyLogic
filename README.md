@@ -16,3 +16,8 @@ The range is between -90 and 90.
 The amount of degrees the robot should turn
 #### Speed
 The speed of the robot
+
+
+# Sources
+- https://www.youtube.com/watch?v=DW1eegaH6Ys
+- https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
